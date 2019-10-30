@@ -1,5 +1,5 @@
 DOMs_Zeiterfassung.xltm
-Version: 1.0
+Version: 1.01
 
 // DE //
 
@@ -20,8 +20,7 @@ Bedienung:
 1. Klick auf die Umschaltschaltfläche „Zeiterfassung“ starte die Zeiterfassung (d.h. Zeitstempel mit der Startzeit wird gesetzt).
 2. Klick auf die Umschaltschaltfläche „Zeiterfassung“ beendet die Zeiterfassung (d.h. Zeitstempel mit der Endzeit wird gesetzt).
 Es wird automatisch eine Pausenzeit ausgewählt und eingetragen. Bei weniger als 8 Std. Brutto-Dauer sind es 30 Min. Pause, bei mehr als 8 Std. 45 Min. Pause.
-Erstellte Einträge können nachträglich bearbeitet werden. Einfach manuell die Werte in den einzelnen Zellen anpassen (Bitte Zahlenformat beachten!). Die Berechnung aktualisiert sich automatisch.
-Falls sich die Berechnung nicht automatisch aktualisieren sollte, bitte auf die Befehlsschaltfläche „Aktualisieren“ klicken. Eine Meldung, dass die Zeiten aktualisiert wurden erscheint als Bestätigung.
+Erstellte Einträge können nachträglich bearbeitet werden. Einfach manuell die Werte in den einzelnen Zellen anpassen (Bitte Zahlenformat beachten!). Bitte auf die Befehlsschaltfläche „Aktualisieren“ klicken. Eine Meldung, dass die Zeiten aktualisiert wurden erscheint als Bestätigung.
 
 Mitwirken:
 Alle Vorschläge zur Verbesserung und Erweiterung sind willkommen.
@@ -56,8 +55,7 @@ How to use:
 2. click on the toggle-button “Zeiterfassung” end the time tracking (i.e. a timestamp with the ending time will be pasted to the table).
 
 Break durations will selected and pasted automatically. If the total duration (“Brutto-Dauer”) is larger than 9 hrs, a 45 Min break time will be pasted. If the total duration is less than 9 hrs, a 30 Min break time will be pasted instead.
-All items can be edited afterwards manually within the cells of the table. The calculation should be updated automatically.
-If, for whatever reasons, the calculation fails to update automatically, you can always force a recalculation by clicking the command-button “Aktualisieren”. The recalculation will confirmed by a messagebox.
+All items can be edited afterwards manually within the cells of the table. You have to  click on the command-button “Aktualisieren”. The recalculation will confirmed by a messagebox.
 
 Contributing:
 All contributions regarding ehancements, improvements and bug fixings are welcome. 
